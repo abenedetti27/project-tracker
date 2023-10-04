@@ -8,9 +8,13 @@
     justify-content: center;
 }
 .card{
+    background-color: lightblue;
     border: 2px solid black;
     border-radius: 10px;
     align-items: center;
     display: center;
     justify-content: center;
+}
+.card-text{
+    background-color: lightcyan;
 }
